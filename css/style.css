@@ -84,3 +84,15 @@ nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
     height: 64px !important;
     line-height: 64px !important;
 }
+.facebook{
+  color: rgba(0, 0, 0, 0.87);
+}
+.facebook:hover{
+  color: #4267b2;
+}
+.instagram{
+  color: rgba(0, 0, 0, 0.87);
+}
+.instagram:hover{
+  color: #cd486b;
+}
